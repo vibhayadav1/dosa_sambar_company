@@ -3,3 +3,5 @@
 # Format -   Full name - nickname (optional)
 Benjamin Chow - Ben
 praveen raturi - lovey
+Hrishikesh - rishi
+Saurav Arora - sau
