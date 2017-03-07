@@ -51,6 +51,7 @@ Ask Ops for username/password.
 
 From within the docker_sandbox_local directory run `docker-compose up -d`.
 
+This will start the docker instance in a detached state
 You can use the following URLs to access AEM:
 
 - Author: http://author.dev
