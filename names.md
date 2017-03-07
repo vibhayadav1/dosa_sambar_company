@@ -8,6 +8,6 @@ Neeru Gupta
 Shaurav Ranjan
 Vibha Yadav- vib
 Akansha Chitransh - Gunnie
-praveen raturi - lovey
+praveen raturi - lovey-blue
 Hrishikesh - rishi
 Saurav Arora - sau
